@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 448eb0b99629ec44dbac170e767bd4a7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - paddleBounceSound: {fileID: 8300000, guid: 226f6f97baa60154c9656fd0113c8322, type: 3}
+  - wallBounceSound: {fileID: 8300000, guid: 6a1f0564c65a3684997cf2ee850a365e, type: 3}
+  - powerUpSound: {fileID: 8300000, guid: 4a3816ea5f999a24e9db12aef01f1ae0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
